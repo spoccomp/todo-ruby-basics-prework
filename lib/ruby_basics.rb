@@ -1,6 +1,6 @@
 def division(num1, num2)
-  num2/num1
-
+  number = num2/num1
+  return number
 end
 
 def assign_variable(value)
@@ -8,8 +8,8 @@ def assign_variable(value)
   value
 end
 
-def argue
-  argue
+def argue(argument)
+  argument
 end
 
 def greeting(greeting, name)
